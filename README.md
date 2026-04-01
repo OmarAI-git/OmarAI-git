@@ -60,8 +60,18 @@
 
 ## 🚀 Featured Projects
 
-* 🧠 Full ML project
-* 📊 Data Analysis & Data Engineer Project
+🔹 **🧠 Machine Learning Project**
+Built a predictive model using ML techniques for classification/regression tasks.
+Tools: Python, Scikit-learn, Pandas
+
+🔹 **🏢 Data Warehouse Project**
+Designed and implemented a data warehouse architecture for structured data storage and analytics.
+Tools: SQL, ETL processes, data modeling
+
+🔹 **📊 Data Analysis Project**
+Performed exploratory data analysis and visualization to extract insights from datasets.
+Tools: Python, Pandas, Matplotlib, Seaborn
+
 ---
 
 ## 📫 Connect with Me
