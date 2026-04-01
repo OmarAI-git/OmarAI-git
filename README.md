@@ -55,10 +55,8 @@
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OmarAI-git&theme=tokyonight" height="200"/>
-  <img src="https://streak-stats.demolab.com/?user=OmarAI-git&theme=tokyonight" height="200"/>
+  <img src="https://streak-stats.demolab.com/?user=OmarAI-git&theme=tokyonight&hide_border=true" height="200"/>
 </p>
-
----
 
 ## 🚀 Featured Projects
 
