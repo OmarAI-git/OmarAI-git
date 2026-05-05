@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Omar Al_sheikh
+# 👋 Hi there, I'm Omar Al-sheikh
 
 🤖 Machine Learning Engineer
 🚀 Passionate about AI, Deep Learning, Data Engineer & Data Science
